@@ -1,5 +1,5 @@
 {::nomarkdown}
-<!doctype html><html><head><meta charset='utf-8'>
+<html><head><meta charset='utf-8'>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/2.4.1/github-markdown.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.11.0/styles/default.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.8.3/katex.min.css">
@@ -8,13 +8,8 @@
 </head><body class="markdown-body">
 <h2 data-line="0" class="code-line" id="%D0%BC%D0%B5%D0%BD%D1%8E">Меню</h2>
 <!-- TOC -->
-<ul>
-<li data-line="3" class="code-line"><a href="#%D0%BC%D0%B5%D0%BD%D1%8E">Меню</a></li>
-<li data-line="4" class="code-line"><a href="#%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D1%81%D0%B4%D0%B0%D1%87%D0%B8-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F">Правила сдачи задания:</a></li>
-<li data-line="5" class="code-line"><a href="#%D0%BA%D0%B0%D0%BA-%D1%81%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D1%8C-%D0%BD%D0%B0-%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D1%83-%D1%81%D0%B2%D0%BE%D0%B8-%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F">Как сдавать на проверку свои решения</a></li>
-<li data-line="6" class="code-line"><a href="#gui-%D0%B4%D0%BB%D1%8F-%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B9-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D1%81-git">GUI для эффективной работы с Git</a></li>
-<li data-line="7" class="code-line"><a href="#%D1%82%D0%B5%D0%BA%D1%81%D1%82%D1%8B-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F">Тексты задания</a></li>
-</ul>
+
+
 <!-- /TOC -->
 <h2 data-line="10" class="code-line" id="%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D1%81%D0%B4%D0%B0%D1%87%D0%B8-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F">Правила сдачи задания:</h2>
 <ol>
@@ -92,6 +87,5 @@
 </ul>
 </li>
 </ul>
-
 </body></html>
 {:/}
