@@ -33,7 +33,7 @@
 + Встроенный в Visual Studio Code Git
 + Встроенный в Visual Studio 15/17 TeamServices
 
-##GitRep с примерами
+## GitRep с примерами
 
 [Примеры](https://github.com/maxUo/schoolEx)
 
